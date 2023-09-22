@@ -1,5 +1,5 @@
 # personal_links
-1. This is my personal repo to push some websites that I use fro piracy websites<br>
+1. Repo for Free Resources<br>
 https://github.com/ItIsMeCall911/Course-Piracy-Index <br>
 
 2. For DSA practice  <br>
